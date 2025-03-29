@@ -37,3 +37,13 @@ This project is used at:
 
 #OUTPUT
 ![Image](https://github.com/user-attachments/assets/7b665cfe-207f-4652-95bf-f03c404e8b4e)
+After login, the browser will:
+1.Open Google.
+2.Navigate back to Naukri.
+3.Move forward.
+4.Open Facebook.
+5.Navigate back.
+6.Refresh the page.
+Finally, the browser closes automatically.
+
+
