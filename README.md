@@ -13,7 +13,8 @@
 *MENTOR*: NEELA SANTHOSH
 
 ##
-Tools Used in This Code and Real-time Applications
+Tools Used in This Code and Real-time Applications.
+
 This Java program is an automation script that performs login and navigation testing for the Naukri website using Selenium WebDriver. Below are the tools and their roles:
 
 1. Selenium WebDriver,Used for: Automating browser interactions.In real-time:1.Login testing for web applications.2.Navigating and verifying elements on a webpage.
