@@ -34,3 +34,6 @@ This project is used at:
 *Banking Applications: Ensuring users can securely log in and navigate through account sections.
 *Job Portals (like Naukri): Verifying login functionality and navigation to job search pages.
 *Social Media Platforms: Testing user sessions and page transitions.
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/7b665cfe-207f-4652-95bf-f03c404e8b4e)
